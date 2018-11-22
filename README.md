@@ -1,1 +1,1 @@
-# BUAN-6340-Programming-For-Data-Science
+# Programming-For-Data-Science
